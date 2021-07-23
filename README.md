@@ -7,3 +7,5 @@ A fun and quirky game where you roll a dice and it adds the dice amount to your 
 First to 100 points wins!
 
 Built with vanilla JavaScript.
+
+![pig-game-design](https://user-images.githubusercontent.com/22922125/126842503-aa84342a-5cd8-4d0d-9f2f-7dc010992af0.JPG)
